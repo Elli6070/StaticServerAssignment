@@ -1,0 +1,2 @@
+# StaticServerAssignment
+CISC375
